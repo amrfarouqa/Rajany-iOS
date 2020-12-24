@@ -1,2 +1,7 @@
 # Rajany-iOS
-A responsive iOS application about Interior/Exterior Design. (Firebase/Swift)
+
+<img src="Rajany/logo.png">
+
+Interior/Exterior Design Responsive iOS Application using (Firebase/Swift) for [Rajany Design Company](https://www.facebook.com/rajanydesigns)
+
+
